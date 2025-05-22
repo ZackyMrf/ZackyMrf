@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZackyMrf&label=PROFILE+VISITS&color=green" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/ZackyMrf?label=Followers&style=social" alt="followers"/>
   <img src="https://img.shields.io/github/stars/ZackyMrf?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars"/>
-  <img src="https://img.shields.io/github/repos/ZackyMrf?style=social" alt="repos"/>
 </p>
 
 ---
