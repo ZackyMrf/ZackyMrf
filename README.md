@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZackyMrf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D716&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Developer+from+Indonesia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D716&center=true&vCenter=true&width=600&lines=welcome+to+my+github+👋;let's+connect+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,12 +29,16 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/zackymrf_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/zackymrf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:zackymrf@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://twitter.com/zackymrf_" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zackymrf/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:zackymrf@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
