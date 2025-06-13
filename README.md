@@ -18,10 +18,10 @@
 
 ## ✨ About Me
 
-- 🌱 I’m currently learning **Web Development and Open Source**
-- 💬 Ask me about **anything related to programming**
+- 🌱 I’m currently learning **Web Development, Open Source, and Blockchain/Web3**
+- 💬 Ask me about **programming, web development, or open source projects**
 - 📫 How to reach me: **zackymrf@gmail.com**
-- ⚡ Fun fact: **I love web3!**
+- ⚡ Fun fact: **I'm passionate about building in the web3 space and love collaborating on new ideas!**
 
 ---
 
@@ -48,7 +48,9 @@
 ---
 
 ### 🎯 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackyMrf&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackyMrf&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
